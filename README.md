@@ -1,6 +1,6 @@
 **About**
 
-An Algoritm which check reading level of a given piece of text.
+An algoritm which checks the reading level of a given piece of text.
 
 
 **To Run**<br>
